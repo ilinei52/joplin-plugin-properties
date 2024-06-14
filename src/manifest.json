@@ -1,0 +1,15 @@
+{
+	"manifest_version": 1,
+	"id": "com.example.Properties",
+	"app_min_version": "2.13",
+	"version": "1.0.0",
+	"name": "Properties",
+	"description": "Implements page properties in mdx notation.",
+	"author": "ilinei52",
+	"homepage_url": "https://github.com/ilinei52/joplin-plugin-properties#readme",
+	"repository_url": "https://github.com/ilinei52/joplin-plugin-properties#readme",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {}
+}
